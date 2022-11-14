@@ -1,0 +1,14 @@
+#int n_measure 
+10000
+#int n_discard
+10000
+#int n_skip
+0
+#double T_max 
+2000.0
+#double T_min 
+50.0
+#int n_T 
+2
+#int n_config_save
+0
